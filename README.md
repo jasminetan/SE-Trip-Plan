@@ -19,4 +19,4 @@ where are they going and what is the purpose of the trip? California. Agile2018
 
 when is the trip taking place and for how long? Beginning of August
 
-what is the budget for the trip?
+what is the budget for the trip? $15,000
