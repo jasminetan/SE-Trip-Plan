@@ -13,10 +13,5 @@ Connor Penrod
 Jasmine Tan
 
 ## Trip Parameters
-how many people are going? 3
 
-where are they going and what is the purpose of the trip? California. Agile2018
-
-when is the trip taking place and for how long? Beginning of August, 10 days
-
-what is the budget for the trip? $15,000
+3 people from Columbia, MO are going to the Agile2018 conference in San Diego, CA. The trip is from Sunday, August 5 through Sunday, August 15. The budget for the trip is $15,000.
