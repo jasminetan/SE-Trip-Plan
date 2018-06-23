@@ -10,7 +10,7 @@ Jacob Sokora
 
 Connor Penrod
 
-Jasmine Tan
+Jasmine Tan (Scrum master)
 
 ## Trip Parameters
 
