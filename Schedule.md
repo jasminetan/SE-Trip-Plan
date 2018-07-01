@@ -1,5 +1,5 @@
 # Master Schedule
-
+[Back to Readme](https://github.com/jasminetan/se-trip-plan/blob/master/README.md)
 ## Day 1
 
 ## Day 2
