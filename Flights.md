@@ -9,7 +9,7 @@ Departing Flight
 Return Flight
  * San Diego International Airport to Kansas City International Airport
  * Airline: Alaska
- * Class; Economy
+ * Class: Economy
  * Time: 5:45 PM, August 15
  
 Total Roundtrip Cost: $346/person, $1038 total
