@@ -1,6 +1,10 @@
 # Master Schedule
 [Back to Readme](https://github.com/jasminetan/se-trip-plan/blob/master/README.md)
 ## Day 1
+* 5:00 AM Arrive at MCI for check-in 
+* 7:00 AM Depart MCI
+* 8:27 AM Arrive at SAN
+
 
 ## Day 2
 
@@ -19,3 +23,7 @@
 ## Day 9
 
 ## Day 10
+* 3:45 PM Arrive at SAN for check-in 
+* 5:45 PM Depart SAN
+* 10:57 AM Arrive at MCI
+
