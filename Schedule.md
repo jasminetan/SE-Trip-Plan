@@ -4,6 +4,7 @@
 * 5:00 AM Arrive at MCI for check-in 
 * 7:00 AM Depart MCI
 * 8:27 AM Arrive at SAN
+* 4:00 PM Check-in at Manchester Grand Hyatt San Diego
 
 
 ## Day 2
@@ -23,7 +24,8 @@
 ## Day 9
 
 ## Day 10
+* 11:00 AM Check-out Manchester Grand Hyatt San Diego
 * 3:45 PM Arrive at SAN for check-in 
 * 5:45 PM Depart SAN
-* 10:57 AM Arrive at MCI
+* 10:57 PM Arrive at MCI
 
