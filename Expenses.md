@@ -1,4 +1,5 @@
 # Expenses Master List
+[Back to Readme](https://github.com/jasminetan/se-trip-plan/blob/master/README.md)
 
 | Expense                            | Cost  |
 |------------------------------------|-------|
