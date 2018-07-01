@@ -21,3 +21,5 @@ Jasmine Tan (Scrum master)
 * [Accomodations](https://github.com/jasminetan/se-trip-plan/blob/master/Accommodations.md)
 
 * [Flights](https://github.com/jasminetan/se-trip-plan/blob/master/Flights.md)
+
+* [Transportation](https://github.com/jasminetan/se-trip-plan/blob/master/Transportation.md)
