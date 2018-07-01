@@ -1,5 +1,7 @@
 # Transportation
 [Back to Readme](https://github.com/jasminetan/se-trip-plan/blob/master/README.md)
+### Shuttle
+Bus to and from hotel to conference: Free
 ### Uber/Lyft
 Average $5-$7 for 10 minute ride
 
