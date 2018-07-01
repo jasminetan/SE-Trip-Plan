@@ -8,13 +8,15 @@
 
 
 ## Day 2
+* 9:00 AM - 4:30 PM Agile2018 Conference
 
 ## Day 3
+* 9:00 AM - 4:30 PM Agile2018 Conference
 
 ## Day 4
-
+* 9:00 AM - 4:30 PM Agile2018 Conference
 ## Day 5
-
+* 9:00 AM - 4:30 PM Agile2018 Conference
 ## Day 6
 
 ## Day 7
