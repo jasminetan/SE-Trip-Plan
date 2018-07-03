@@ -23,3 +23,8 @@ Jasmine Tan (Scrum master)
 * [Flights](https://github.com/jasminetan/se-trip-plan/blob/master/Flights.md)
 
 * [Transportation](https://github.com/jasminetan/se-trip-plan/blob/master/Transportation.md)
+
+* [Expenses](https://github.com/jasminetan/se-trip-plan/blob/master/Expenses.md)
+
+* [Food](https://github.com/jasminetan/se-trip-plan/blob/master/Food.md)
+
