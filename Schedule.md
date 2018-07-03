@@ -26,6 +26,8 @@
 ## Day 9
 
 ## Day 10
+
+## Day 11
 * 11:00 AM Check-out Manchester Grand Hyatt San Diego
 * 3:45 PM Arrive at SAN for check-in 
 * 5:45 PM Depart SAN
