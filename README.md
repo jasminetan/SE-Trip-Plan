@@ -1,16 +1,12 @@
 # SE-Trip-Plan
 
-Team formation, submission of GitHub repo with README.md containing team and trip parameters: Friday, June 22 by 11:59pm.
-
-Completion of project: Friday, July 6 by 11:59pm.
-
 ## Team Members
 
 Jacob Sokora
 
 Connor Penrod
 
-Jasmine Tan (Scrum master)
+Jasmine Tan (Scrum Master)
 
 ## Trip Parameters
 
