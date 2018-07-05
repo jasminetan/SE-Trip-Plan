@@ -10,5 +10,5 @@
 | Zoo & Safari park passes (x3)      | $260      |
 | Boat rental                        | $500      |
 | Transportation                     | $190      |
-| Total:                             | $13689.20 |
+| Total:                             | $13819.20 |
 
